@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "theme": "jsonresume-theme-kendall"
+  },
+  "basics": {
+    "name": "Dennis Philippe T. Pereyra Jr.",
+    "label": "SRE / DevOps / Platform Engineer",
+    "email": "mail@dppereyra.me",
+    "phone": "+63(917)874-8013 / +63(908)822-0122",
+    "summary": "I have developed applications that act on a realtime manner involving continuously incoming data streams. I also have experience designing and setting up a fault tolerant, distributed, and secure infrastructure. I have done development workflows redesign ie integrating CI/CD and containerization as well. I can work on data analytics particularly with natural language processing and audio data processing. I can also setup database warehouse systems to store large data and make it so that data retrieval speeds are relatively fast provided I have access to the application code as well.",
+    "location": {
+      "city": "Las Pinas City",
+      "region": "Metro Manila",
+      "countryCode": "PH"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "dptpereyra",
+        "url": "https://twitter.com/dptpereyra"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "dppereyra",
+        "url": "https://www.linkedin.com/in/dppereyra"
+      },
+      {
+        "network": "GitHub",
+        "username": "dppereyra",
+        "url": "https://github.com/dppereyra"
+      },
+      {
+        "network": "GitLab",
+        "username": "dppereyra",
+        "url": "https://gitlab.com/dppereyra"
+      },
+      {
+        "network": "Pluralsight",
+        "username": "dppereyra",
+        "url": "https://app.pluralsight.com/profile/dppereyra"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Manulife IT Delivery Center",
+      "position": "Freelance - DevOps",
+      "startDate": "2022-02",
+      "highlights": [
+        "Setup jenkins pipelines",
+        "Ensure application runs correctly E2E",
+        "Integrate prometheus to New Relic",
+        "Integrate fluentd to send logs to Devo",
+        "Create all necessary documentation for production deployment",
+        "Get applications deployed in production",
+        "Support in issues occuring when application is released to production",
+        "Migrate application from PCF to kubernetes",
+        "Coordinate with Architect and Security teams to have all documentation reviewed and signed off",
+        "Provide mentorship to developers on using koubernetes",
+        "Help in integrating application database to Azure Synapse"
+      ]
+    },
+    {
+      "name": "ING Business Shared Services",
+      "position": "Senior DevOps Engineer / Site Reliability Engineer",
+      "startDate": "2019-11",
+      "endDate": "2022-02",
+      "highlights": [
+        "Manage, maintain, and deploy services to openshift/kubernetes via Azure DevOps Pipelines",
+        "Identify, investigate, and resolve potential issues and performance bottlenecks",
+        "Help identify, investigate, and resolve security problems",
+        "Migrate stack from on-premise to public cloud: Azure / AKS / ARM",
+        "Perform disaster recovery, operational resiliency audits, and incidents management",
+        "Maintain monitoring systems: ELK / Grafana / Prometheus / Kafka / PagerDuty",
+        "Coordinate with relevant business partners and raise service request when needed",
+        "On call support for incidents and perform documentation, remediation, and coordination",
+        "Create audits of system states and manuals for operations tasks",
+        "Provide training and knowledge sharing for rest of team",
+        "Develop applications/scripts for operations efficiency: python, bash, powershell",
+        "Programming languages used by backend developers: python, go, java",
+        "Additional applications: FIS Profile, MSSQL, SSRS, VMWare, F5, RHEL7, Twistlock",
+        "Supporting applications: Terraform, Ansible, Consul, Vault, Nginx, Squid, Cassandra, eBPF"
+      ]
+    },
+    {
+      "name": "mClinica",
+      "position": "Freelance - DevOps",
+      "startDate": "2019-03",
+      "endDate": "2019-05",
+      "highlights": [
+        "Migrate services from azure to gcp",
+        "Provide guidance/advice on database deisign/architecture as well as dockerizing applications"
+      ]
+    },
+    {
+      "name": "DigitalTolk",
+      "position": "Freelance - BackEnd Development / DevOps",
+      "startDate": "2017-12",
+      "endDate": "2018-11",
+      "highlights": [
+        "Develop a realtime application with NLP capabilities",
+        "Application development involved python with asyncio, grpc, gunicorn, 0mq, nats, asgi, pydub, textblob, polyglot, and spacy",
+        "Application development approach was to use actor model design",
+        "Also includes tasks in upgrading current azure infrastructure implementing containerization, high availability, and security",
+        "Setup the base docker images for applications using packer with ansible",
+        "Security integrations involved placing a bastion gateway, implementing fail2ban, and adding rate limiting",
+        "Implement a clustered/fault tolerant setup for redis, elasticsearch, nomad, consul, traefik, and mariadb",
+        "Use terraform and ansible to automate azure infrastructure upgrade and deployment"
+      ]
+    },
+    {
+      "name": "CBO (Complete Business Online)",
+      "position": "Senior BackEnd Developer / Senior DevOps Engineer",
+      "startDate": "2016-11",
+      "endDate": "2017-12",
+      "highlights": [
+        "Develop, support, and optimize on a general level across all products and applications",
+        "Manage and maintain the cloud stack: ELB, SQS, Lambda, DynamoDB, Opsworks, SNS, Cloudwatch",
+        "Provide training and knowledge sharing for rest of team",
+        "Additional technologies handled: Google Analytics"
+      ]
+    },
+    {
+      "name": "Juwai",
+      "position": "Freelance - BackEnd Development",
+      "startDate": "2016-06",
+      "endDate": "2016-11",
+      "highlights": [
+        "Develop and maintain backend applications and services",
+        "Identify, investigate and resolve potential",
+        "Additional technologies involved are AWS SQS, MySQL, and ZeroMQ"
+      ]
+    },
+    {
+      "name": "Glyphstudios",
+      "position": "Freelance - BackEnd Development",
+      "startDate": "2016-06",
+      "endDate": "2016-11",
+      "highlights": [
+        "Develop voice/sms applications integrated with Asterisk and to telecommunications partners",
+        "Troubleshoot and make recommendations for any problems and issues",
+        "Aid in optimizing performance of existing voice/sms applications with high load and traffic"
+      ]
+    },
+    {
+      "name": "APPone",
+      "position": "Freelance - BackEnd Development",
+      "startDate": "2016-06",
+      "endDate": "2016-11",
+      "highlights": [
+        "Manage and maintain database as well as create relevant scripts and schemas",
+        "Develop backend applications",
+        "Troubleshoot and make recommendations for any problems and issues with frontend integration"
+      ]
+    },
+    {
+      "name": "Harte Hanks",
+      "position": "Freelance - Database Development",
+      "startDate": "2013-10",
+      "endDate": "2014-08",
+      "highlights": [
+        "Manage and maintain multiple databases as well as help in merging them to a single database",
+        "Coordinate with relevant parties and develop scripts for transforming data from database"
+      ]
+    },
+    {
+      "name": "Aircom / Nokia",
+      "position": "OSS and Database Engineer",
+      "startDate": "2008-05",
+      "endDate": "2013-08",
+      "highlights": [
+        "Develop applications/scripts for telecommunications data processing and reporting",
+        "Setup and maintain a data warehouse for telecommunications data",
+        "Perform OSS network modification, monitoring, maintenance, and troubleshooting",
+        "Extract and process data from OSS network for analysis"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Mapua Institute of Technology",
+    "area": "Electronics and Communications Engineering",
+    "studyType": "Bachelor's Degree",
+    "startDate": "2002",
+    "endDate": "2006"
+  }],
+  "certificates": [{
+    "name": "Licensed Electronics and Communications Engineer",
+    "date": "2007-04",
+    "issure": "Philippines Professional Regulation Commission"
+  }],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Proficient",
+      "keywords": [
+        "Python",
+        "Git",
+        "Microservices",
+        "ReST"
+      ]
+    },
+    {
+      "name": "Relational Database",
+      "level": "Proficient",
+      "keywords": [
+        "PostgreSQL",
+        "MariaDB",
+        "MySQL",
+        "Oracle",
+        "MS Access",
+        "SQLite"
+      ]
+    },
+    {
+      "name": "Cloud Technology",
+      "level": "Competent",
+      "keywords": [
+        "AWS",
+        "Azure",
+        "GCP",
+        "DigitalOcean",
+        "Linode",
+        "OVH"
+      ]
+    },
+    {
+      "name": "Infrastructure as a Code",
+      "level": "Competent",
+      "keywords": [
+        "Terraform",
+        "ARM / Bicep",
+        "CloudFormation"
+      ]
+    },
+    {
+      "name": "HTTP Servers and Proxies",
+      "level": "Proficient",
+      "keywords": [
+        "Apache HTTP",
+        "Nginx",
+        "HAProxy",
+        "Traefik",
+        "Squid",
+        "Let's Encrypt"
+      ]
+    },
+    {
+      "name": "NoSQL Databases",
+      "level": "Competent",
+      "keywords": [
+        "Redis",
+        "Cassandra",
+        "Elasticsearch",
+        "DynamoDB",
+        "CosmosDB",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "level": "Proficient",
+      "keywords": [
+        "Prometheus",
+        "Grafana",
+        "ELK Stack",
+        "BugSnag",
+        "Sentry",
+        "FluentD",
+        "Alertmanager",
+        "Jaeger",
+        "PagerDuty"
+      ]
+    },
+    {
+      "name": "Containers and Orchestration",
+      "level": "Proficient",
+      "keywords": [
+        "Kubernetes",
+        "Openshift",
+        "Nomad",
+        "AKS",
+        "GKE",
+        "Docker",
+        "Podman",
+        "Packer",
+        "Consul",
+        "Istio"
+      ]
+    },
+    {
+      "name": "Linux Administration",
+      "level": "Proficient",
+      "keywords": [
+        "Linux",
+        "Bash",
+        "Ansible",
+        "Chef"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "level": "Competent",
+      "keywords": [
+        "Azure DevOps",
+        "Jenkins",
+        "Gitlab CI",
+        "Github Actions"
+      ]
+    },
+    {
+      "name": "Message Queues",
+      "level": "Competent",
+      "keywords": [
+        "ZeroMQ",
+        "RabbitMQ",
+        "Kafka"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2 (Upper Intermediate)"
+    },
+    {
+      "language": "Filipino",
+      "fluency": "Native Speaker"
+    }
+  ]
+}
