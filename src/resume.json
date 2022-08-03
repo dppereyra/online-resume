@@ -43,24 +43,6 @@
   },
   "work": [
     {
-      "name": "Manulife IT Delivery Center",
-      "position": "Senior Platform Engineer",
-      "startDate": "2022-02",
-      "highlights": [
-        "Setup jenkins pipelines",
-        "Ensure application runs correctly E2E",
-        "Integrate prometheus to New Relic",
-        "Integrate fluentd to send logs to Devo",
-        "Create all necessary documentation for production deployment",
-        "Get applications deployed in production",
-        "Support in issues occuring when application is released to production",
-        "Migrate application from PCF to kubernetes",
-        "Coordinate with Architect and Security teams to have all documentation reviewed and signed off",
-        "Provide mentorship to developers on using koubernetes",
-        "Help in integrating application database to Azure Synapse"
-      ]
-    },
-    {
       "name": "ING Business Shared Services",
       "position": "Senior DevOps Engineer / Site Reliability Engineer",
       "startDate": "2019-11",
