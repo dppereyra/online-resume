@@ -1,0 +1,13 @@
+{
+  "name": "dppereyra-resume",
+  "version": "1.0.0",
+  "description": "DPPereyra Personal Resume",
+  "scripts": {
+    "build": "resume export -r src/resume.json -t stackoverflow dist/index.html"
+  },
+  "author": "DPPereyra",
+  "dependencies": {
+    "jsonresume-theme-stackoverflow": "2.0.0",
+    "resume-cli": "3.0.7"
+  }
+}
