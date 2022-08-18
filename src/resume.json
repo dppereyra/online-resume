@@ -43,6 +43,25 @@
   },
   "work": [
     {
+      "name": "Manulife",
+      "position": "Senior Platform Engineer",
+      "startDate": "2022-02",
+      "highlights": [
+        "Manage, maintain, and deploy services to Azure kubernetes via Jenkins",
+        "Ensure code is checked by security and code quality tools: Snyk and SonarQube",
+        "Identify, investigate, and resolve potential issues for releasing applications to production",
+        "Help identify, investigate, and resolve security problems",
+        "Migrate stack from on-premise cloud foundry to Azure",
+        "Plan and document procedure for performing disaster recovery, operational resiliency audit, and incident management",
+        "Ensure integration to monitoring systems are working: Prometheus, Kiali, Jaeger, Grafana, Devo and, New Relice",
+        "Coordinate with relevant business partners and raise service request when needed",
+        "On call support for incidents and perform documentation, remediation, and coordination",
+        "Create audits of system states and manuals for operations tasks",
+        "Provide training and knowledge sharing for rest of team",
+        "Programming languages used by backend developers: typescript",
+        "Supporting applications: Terraform, Azure Synapse, Azure CosmosDB, Azure Functions, Istio, FluxCD, akv2k8s"
+      ]
+    },    {
       "name": "ING Business Shared Services",
       "position": "Senior DevOps Engineer / Site Reliability Engineer",
       "startDate": "2019-11",
