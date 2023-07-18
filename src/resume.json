@@ -233,8 +233,7 @@
       ]
     },
     {
-      "name": "HTTP Servers and Proxies",
-      "level": "Proficient",
+      "name": "HTTP Servers/Proxies",
       "keywords": [
         "Apache HTTP",
         "Nginx",
@@ -303,7 +302,6 @@
     },
     {
       "name": "Message Queues",
-      "level": "Competent",
       "keywords": [
         "RabbitMQ",
         "Kafka",
