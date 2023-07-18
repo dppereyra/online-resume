@@ -192,41 +192,40 @@
   "skills": [
     {
       "name": "Software Development",
-      "level": "Proficient",
       "keywords": [
         "Python",
         "Git",
         "Microservices",
-        "ReST"
+        "ReST",
+        "GraphQL"
       ]
     },
     {
-      "name": "Relational Database",
-      "level": "Proficient",
+      "name": "Databases",
       "keywords": [
         "PostgreSQL",
         "MariaDB",
         "MySQL",
         "Oracle",
         "MS Access",
-        "SQLite"
+        "SQLite",
+        "Redis",
+        "Cassandra",
+        "Elasticsearch",
+        "DynamoDB",
+        "CosmosDB",
+        "MongoDB"
       ]
     },
     {
       "name": "Cloud Technology",
-      "level": "Competent",
       "keywords": [
         "AWS",
-        "Azure",
-        "GCP",
-        "DigitalOcean",
-        "Linode",
-        "OVH"
+        "Azure"
       ]
     },
     {
       "name": "Infrastructure as a Code",
-      "level": "Competent",
       "keywords": [
         "Terraform",
         "ARM / Bicep",
@@ -240,67 +239,61 @@
         "Apache HTTP",
         "Nginx",
         "HAProxy",
-        "Traefik",
-        "Squid",
-        "Let's Encrypt"
+        "Squid"
       ]
     },
     {
-      "name": "NoSQL Databases",
-      "level": "Competent",
+      "name": "Kubernetes Based Applications",
       "keywords": [
-        "Redis",
-        "Cassandra",
-        "Elasticsearch",
-        "DynamoDB",
-        "CosmosDB",
-        "MongoDB"
+        "Argo",
+        "Flux",
+        "Cert Manager",
+        "AKV2K8s",
+        "Prisma/Twistlock",
+        "Istio",
+        "Calico",
+        "Kiali"
       ]
     },
     {
       "name": "Monitoring",
-      "level": "Proficient",
       "keywords": [
         "Prometheus",
         "Grafana",
         "ELK Stack",
-        "BugSnag",
-        "Sentry",
         "FluentD",
         "Alertmanager",
         "Jaeger",
-        "PagerDuty"
+        "PagerDuty",
+        "New Relic"
       ]
     },
     {
       "name": "Containers and Orchestration",
-      "level": "Proficient",
       "keywords": [
         "Kubernetes",
         "Openshift",
         "Nomad",
         "AKS",
-        "GKE",
         "Docker",
-        "Podman",
         "Packer",
-        "Consul",
-        "Istio"
+        "Consul"
       ]
     },
     {
       "name": "Linux Administration",
-      "level": "Proficient",
       "keywords": [
-        "Linux",
+        "RHEL",
+        "Debian",
+        "Ubuntu",
         "Bash",
+        "Powershell",
         "Ansible",
         "Chef"
       ]
     },
     {
-      "name": "CI/CD",
-      "level": "Competent",
+      "name": "Continuous Integration",
       "keywords": [
         "Azure DevOps",
         "Jenkins",
@@ -312,9 +305,10 @@
       "name": "Message Queues",
       "level": "Competent",
       "keywords": [
-        "ZeroMQ",
         "RabbitMQ",
-        "Kafka"
+        "Kafka",
+        "Azure Service Bus",
+        "AWS SQS"
       ]
     }
   ],
