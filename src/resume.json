@@ -53,13 +53,13 @@
         "Help identify, investigate, and resolve security problems",
         "Migrate stack from on-premise cloud foundry to Azure",
         "Plan and document procedure for performing disaster recovery, operational resiliency audit, and incident management",
-        "Ensure integration to monitoring systems are working: Prometheus, Kiali, Jaeger, Grafana, Devo and, New Relice",
+        "Ensure integration to monitoring systems are working: Prometheus, Kiali, Jaeger, Grafana, Devo, New Relice",
         "Coordinate with relevant business partners and raise service request when needed",
         "On call support for incidents and perform documentation, remediation, and coordination",
         "Create audits of system states and manuals for operations tasks",
         "Provide training and knowledge sharing for rest of team",
         "Programming languages used by backend developers: typescript",
-        "Supporting applications: Terraform, Azure Synapse, Azure CosmosDB, Azure Functions, Istio, FluxCD, akv2k8s"
+        "Supporting applications: Terraform, Azure Synapse, Azure CosmosDB, Azure Functions, Istio, FluxCD, Twistlock, akv2k8s"
       ]
     },    {
       "name": "ING Business Shared Services",
@@ -99,7 +99,7 @@
       "startDate": "2017-12",
       "endDate": "2018-11",
       "highlights": [
-        "Develop a realtime application with NLP capabilities",
+        "Develop a realtime application with NLP capabilities involving audio and language analysis",
         "Application development involved python with asyncio, grpc, gunicorn, 0mq, nats, asgi, pydub, textblob, polyglot, and spacy",
         "Application development approach was to use actor model design",
         "Also includes tasks in upgrading current azure infrastructure implementing containerization, high availability, and security",
@@ -116,7 +116,7 @@
       "endDate": "2017-12",
       "highlights": [
         "Develop, support, and optimize on a general level across all products and applications",
-        "Manage and maintain the cloud stack: ELB, SQS, Lambda, DynamoDB, Opsworks, SNS, Cloudwatch",
+        "Manage and maintain the AWS cloud stack: ELB, SQS, Lambda, DynamoDB, Opsworks, SNS, Cloudwatch",
         "Provide training and knowledge sharing for rest of team",
         "Additional technologies handled: Google Analytics"
       ]
