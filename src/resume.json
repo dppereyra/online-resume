@@ -53,13 +53,13 @@
         "Help identify, investigate, and resolve security problems",
         "Migrate stack from on-premise cloud foundry to Azure",
         "Plan and document procedure for performing disaster recovery, operational resiliency audit, and incident management",
-        "Ensure integration to monitoring systems are working: Prometheus, Kiali, Jaeger, Grafana, Devo, New Relice",
+        "Ensure integration to monitoring systems are working: Prometheus, Kiali, Jaeger, Grafana, Devo, New Relic",
         "Coordinate with relevant business partners and raise service request when needed",
         "On call support for incidents and perform documentation, remediation, and coordination",
         "Create audits of system states and manuals for operations tasks",
         "Provide training and knowledge sharing for rest of team",
         "Programming languages used by backend developers: typescript",
-        "Supporting applications: Terraform, Azure Synapse, Azure CosmosDB, Azure Functions, Istio, FluxCD, Twistlock, akv2k8s"
+        "Supporting applications: Terraform, Azure Synapse, Azure CosmosDB, Azure Functions, Istio, FluxCD, Prisma/Twistlock, Cert Manager"
       ]
     },    {
       "name": "ING Business Shared Services",
@@ -79,7 +79,7 @@
         "Provide training and knowledge sharing for rest of team",
         "Develop applications/scripts for operations efficiency: python, bash, powershell",
         "Programming languages used by backend developers: python, go, java",
-        "Additional applications: FIS Profile, MSSQL, SSRS, VMWare, F5, RHEL7, Twistlock",
+        "Additional applications: FIS Profile, MSSQL, SSRS, VMWare, F5, RHEL7, Prisma/Twistlock",
         "Supporting applications: Terraform, Ansible, Consul, Vault, Nginx, Squid, Cassandra, eBPF"
       ]
     },
@@ -247,7 +247,6 @@
         "Argo",
         "Flux",
         "Cert Manager",
-        "AKV2K8s",
         "Prisma/Twistlock",
         "Istio",
         "Calico",
