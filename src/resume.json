@@ -43,9 +43,27 @@
   },
   "work": [
     {
+      "name": "Recruitics / Doxa",
+      "position": "Site Reliability Engineer",
+      "startDate": "2024-02",
+      "highlights": [
+        "Manage and maintain the AWS infrastructure either via Jenkins, Bitbucket Pipelines, and/or ArgoCD",
+        "Maintain software quality and security by ensuring all releases are checked by sonar and/or trivy",
+        "Assist in application deployments and production issues",
+        "Help in setting up monitoring and alerting",
+        "Configure and setup automation and pipelines",
+        "Help DevSecOps in the maintenance of secret rotation as well as vault cluster management",
+        "Help migrate github actions to bitbucket pipelines",
+        "Audit alerts to ensure only critical and necessary notification are sent to correct slack channels",
+        "Assist development teams in upgrading tools, packages, systems, and/or programming languages from sunsetted versions",
+        "Support applications: Terraform, Python, Serverless Framework, AWS EKS, AWS EC2, AWS RDS, Hadoop, ELK Stack, PromStack, OpsGenie"
+      ]
+    },
+    {
       "name": "Manulife",
       "position": "Senior Platform Engineer",
       "startDate": "2022-02",
+      "endDate": "2024-01",
       "highlights": [
         "Manage, maintain, and deploy services to Azure kubernetes via Jenkins",
         "Ensure code is checked by security and code quality tools: Snyk and SonarQube",
