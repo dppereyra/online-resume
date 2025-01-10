@@ -43,9 +43,25 @@
   },
   "work": [
     {
+      "name": "Simcorp",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2024-08",
+      "highlights": [
+        "Integrate Snowflake data marketplace to product offering",
+        "Help launch Qlik offering to production",
+        "Modernize python scripts for managing vm images",
+        "Manage and maintain the Azure infrastructure",
+        "Automate deployments using ADO",
+        "Help in setting up monitoring and alerting",
+        "Update and streamline group workflows",
+        "Update outdated tools and libraries used in automation"
+      ]
+    },
+    {
       "name": "Recruitics / Doxa",
-      "position": "Site Reliability Engineer",
+      "position": "Freelance - SRE",
       "startDate": "2024-02",
+      "endDate": "2024-08",
       "highlights": [
         "Manage and maintain the AWS infrastructure either via Jenkins, Bitbucket Pipelines, and/or ArgoCD",
         "Maintain software quality and security by ensuring all releases are checked by sonar and/or trivy",
